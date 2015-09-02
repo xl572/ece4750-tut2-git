@@ -1,12 +1,1 @@
-apple
-mango
-orange
-plum
-banana
-peach
-lemon
-plum
-strawberry
-kiwi
-date
-cherry
+applemangoorangeplumbananapeachlemonplumstrawberrykiwidatecherrybluecherry
