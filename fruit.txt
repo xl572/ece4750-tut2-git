@@ -9,3 +9,4 @@ plum
 strawberry
 kiwi
 date
+cherry
