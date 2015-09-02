@@ -29,3 +29,4 @@ applications at the register-transfer level.
 
 help me with Python code, OK?
 help me with Python code, OK?
+I could help you if you need help
